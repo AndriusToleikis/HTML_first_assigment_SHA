@@ -1,0 +1,37 @@
+div{
+    background-color: rgb(255, 94, 0);
+    width: 800px; 
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inside{
+    background-color: rgb(255, 94, 0);
+    width: 600px;
+    height: 450px;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-top: groove gray;
+    border-bottom: groove gray;
+    border-radius: 10px;
+    border-width: 5px;
+    
+
+}
+h1{
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 25px;
+}
+table{
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    color: honeydew;
+    
+}
+.Reg{
+    display: inline-block;
+    margin-left: 277px;
+    margin-top: 30px;
+}
